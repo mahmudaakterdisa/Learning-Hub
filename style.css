@@ -4,7 +4,13 @@
 }
 
 .slider-caption {
-    width: 274px;
+    /* width: 274px; */
+    width: 300px;
+    left: 15%;
+    top: 50% !important;
+    transform: translateY(-50%);
+    text-align: left;
+    bottom: initial;
 
 }
 
